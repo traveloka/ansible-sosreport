@@ -1,6 +1,6 @@
 # encoding: utf-8
 
-# ntp
+# sosreport
 describe package('sosreport') do
   it { should be_installed }
 end

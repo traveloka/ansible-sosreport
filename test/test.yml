@@ -1,5 +1,0 @@
----
-- hosts: all
-  roles:
-    - role: ansible-apt_sources_list
-    - role: ansible-sosreport
